@@ -241,10 +241,92 @@ Shared file permissions determine whether you can view, download, or edit the fi
 
 **Best practice:** Share files with specific people and use view-only permissions whenever editing is not required.
 
-
 ## Managing OneDrive Sync
 
-Instructions for understanding sync status icons and managing files available offline.
+### Understanding OneDrive Synchronization
+
+OneDrive synchronization keeps files in your OneDrive folder on your Windows 11 computer connected to your cloud storage.
+
+When you create, edit, rename, or move files inside your synchronized OneDrive folder, OneDrive updates those changes in the cloud.
+
+**Important:** Changes may take time to synchronize depending on your internet connection and file size.
+
+### 1. Check OneDrive Sync Status
+
+1. Press `Windows + E` to open File Explorer.
+2. Navigate to your OneDrive folder.
+3. Locate the Status column.
+4. Review the icon displayed next to each file or folder.
+
+| Status Icon | Meaning |
+|---|---|
+| Blue cloud | File is online-only |
+| Green outlined check | File is downloaded and locally available |
+| Solid green circle with check | File is set to always remain on this device |
+| Blue circular arrows | File is synchronizing |
+| Red X | Synchronization error |
+
+### 2. Check OneDrive Sync Activity
+
+1. Locate the OneDrive cloud icon in the Windows taskbar notification area.
+2. Click the OneDrive icon.
+3. Review the synchronization activity.
+4. Check whether files are uploading, downloading, or waiting to synchronize.
+
+If the icon is not visible, click the upward arrow to display hidden taskbar icons.
+
+### 3. Pause and Resume Synchronization
+
+To pause synchronization:
+
+1. Click the OneDrive cloud icon.
+2. Select the Settings gear icon.
+3. Select **Pause syncing**.
+4. Choose the desired pause duration.
+
+To resume synchronization:
+
+1. Click the OneDrive cloud icon.
+2. Open the settings menu.
+3. Select **Resume syncing**.
+
+### 4. Choose Which Folders Synchronize
+
+1. Click the OneDrive cloud icon.
+2. Open **Settings**.
+3. Select the **Account** section.
+4. Click **Choose folders**.
+5. Select or clear the folders you want synchronized.
+6. Confirm your selections.
+
+Folders that are not selected may remain available online but will not be synchronized locally.
+
+### 5. Make Files Available Offline
+
+1. Open File Explorer.
+2. Navigate to OneDrive.
+3. Right-click the desired file or folder.
+4. Select **Always keep on this device**.
+5. Wait for the solid green checkmark.
+
+The file will now be stored locally and available without an internet connection.
+
+### 6. Free Up Local Storage
+
+1. Open File Explorer.
+2. Navigate to OneDrive.
+3. Right-click a downloaded file or folder.
+4. Select **Free up space**.
+
+This removes the local copy when possible while retaining the file in OneDrive.
+
+### Best Practices
+
+- Wait for synchronization to finish before shutting down your computer.
+- Check OneDrive status icons before assuming a file is available offline.
+- Use **Always keep on this device** for important files needed without internet access.
+- Check available OneDrive storage regularly.
+- Avoid deleting files unless you intend to remove them from synchronized storage.
 
 ## Troubleshooting
 
