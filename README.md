@@ -138,13 +138,9 @@ OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
 
 ### Understanding OneDrive Status Icons
 
-| Icon | Meaning |
-|---|---|
-| Blue cloud | Online-only file |
-| Green outlined check | Locally available file |
-| Solid green check | Always available on this device |
-| Sync arrows | Synchronization in progress |
-| Red X | Synchronization error |
+![OneDrive Status Icons](images/onedrive-icons.png)
+
+*Figure 4: OneDrive Status Icons.*
 
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
 
