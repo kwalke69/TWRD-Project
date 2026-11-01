@@ -30,11 +30,22 @@ The guide is designed for users with little or no prior experience.
 
 File Explorer is the Windows application used to browse, create, organize, and manage files and folders.
 
-To open File Explorer:
+### Opening File Explorer
 
-1. Click the folder icon on the taskbar.
+1. Click the folder icon on the Windows taskbar.
 2. Alternatively, press `Windows + E` on your keyboard.
 
+### Identifying the Main Areas
+
+- **Navigation pane:** Displays locations such as Home, Desktop, Downloads, Documents, and OneDrive.
+- **Address bar:** Shows the current folder location.
+- **Search box:** Allows you to search for files and folders.
+- **Main file area:** Displays the files and folders in the selected location.
+- **Command bar:** Provides options for creating, copying, moving, and managing files.
+
+![Windows 11 File Explorer Home screen](images/file-explorer-home.png)
+
+*Figure 1: Windows 11 File Explorer main window.*
 ## Creating Files and Folders
 
 Instructions for creating new folders and files using File Explorer.
