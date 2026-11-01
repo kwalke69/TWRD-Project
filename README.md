@@ -1,4 +1,4 @@
-# Windows 11 File Explorer & OneDrive Guide
+t5# Windows 11 File Explorer & OneDrive Guide
 
 ## Introduction
 
@@ -55,7 +55,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 *Figure 2: Creating Folder in Windows 11.*
 
-1. Open File Explorer by pressing `Windows + E`.
+1. [Open File Explorer](*Opening-File-Explorer)
 2. Navigate to the location where you want to create a folder.
 3. Click **New** in the command bar.
 4. Select **Folder**.
@@ -105,7 +105,7 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 ### Locating OneDrive
 
-1. Press `Windows + E` to open File Explorer.
+1. [Open File Explorer](*Opening-File-Explorer)
 2. Locate OneDrive in the navigation pane.
 3. Click OneDrive to open the folder.
 
@@ -145,9 +145,57 @@ OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
 
 
-## Saving Files to OneDrive
 
-Instructions for saving or moving files into OneDrive so they can synchronize with the cloud.
+## Accessing and Downloading Files
+
+### Downloading an Online-Only File
+
+1. Open File Explorer using `Windows + E`.
+2. Navigate to your OneDrive folder.
+3. Locate the file with a blue cloud icon.
+4. Double-click the file to download and open it.
+
+Alternatively:
+
+1. Right-click the file.
+2. Select **Always keep on this device**.
+3. Wait for the download to complete.
+
+### Downloading Multiple Files
+
+1. Open the OneDrive folder.
+2. Hold `Ctrl` and select the files you want.
+3. Right-click one of the selected files.
+4. Select **Always keep on this device**.
+5. Wait for the download to complete.
+
+### Accessing Shared Files
+
+1. Open OneDrive in your browser.
+2. Navigate to **Shared**.
+3. Locate the file or folder shared with you.
+4. If available, select **Add shortcut to My files**.
+5. Open File Explorer.
+6. Navigate to OneDrive and locate the shared item.
+
+Shared file permissions determine whether you can view, download, or edit the file.
+
+### Making Files Available Offline
+
+1. Open File Explorer.
+2. Navigate to OneDrive.
+3. Right-click the desired file or folder.
+4. Select **Always keep on this device**.
+5. Wait for the green checkmark to appear.
+
+### Freeing Up Local Storage
+
+1. Right-click a locally downloaded OneDrive file.
+2. Select **Free up space**.
+3. Windows removes the local copy when possible while retaining the file in OneDrive.
+
+**Important:** Files marked as online-only require an internet connection to download and open.
+
 
 ## Accessing and Downloading Files
 
