@@ -194,13 +194,53 @@ Shared file permissions determine whether you can view, download, or edit the fi
 
 **Important:** Files marked as online-only require an internet connection to download and open.
 
-## Accessing and Downloading Files
-
-Instructions for opening files stored in OneDrive and downloading them to a local computer.
 
 ## Sharing Files and Folders
 
-Instructions for sharing OneDrive files and folders with other users.
+### Sharing a File
+
+1. Open File Explorer using `Windows + E`.
+2. Navigate to your OneDrive folder.
+3. Right-click the file you want to share.
+4. Select **Share**.
+
+### Sharing with a Specific Person
+
+1. Enter the recipient's name or email address.
+2. Review the permission settings.
+3. Choose whether the recipient can view or edit the file.
+4. Add an optional message.
+5. Click **Send**.
+
+### Copying a Sharing Link
+
+1. Right-click the file.
+2. Select **Share**.
+3. Review the link settings.
+4. Select the appropriate audience.
+5. Click **Copy link**.
+6. Paste the link into an email or message using `Ctrl + V`.
+
+### Sharing a Folder
+
+1. Open File Explorer.
+2. Navigate to OneDrive.
+3. Right-click the folder.
+4. Select **Share**.
+5. Enter the recipient's email address.
+6. Review the permissions.
+7. Click **Send**.
+
+### Managing Access
+
+1. Open OneDrive in your browser.
+2. Locate the shared file or folder.
+3. Select **Manage access**.
+4. Review existing permissions and sharing links.
+5. Remove access or stop sharing when necessary.
+
+**Best practice:** Share files with specific people and use view-only permissions whenever editing is not required.
+
 
 ## Managing OneDrive Sync
 
