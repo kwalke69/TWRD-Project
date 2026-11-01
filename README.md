@@ -328,12 +328,119 @@ This removes the local copy when possible while retaining the file in OneDrive.
 - Check available OneDrive storage regularly.
 - Avoid deleting files unless you intend to remove them from synchronized storage.
 
+
 ## Troubleshooting
 
-Common issues and solutions related to File Explorer, OneDrive, and file synchronization.
+This section provides solutions to common Windows 11 File Explorer and OneDrive problems.
+
+### 1. OneDrive Is Missing from File Explorer
+
+**Possible causes:**
+- OneDrive is not running.
+- The user is not signed in.
+- OneDrive has not been configured.
+
+**Solutions:**
+
+1. Open the Windows Start menu.
+2. Search for OneDrive.
+3. Open the OneDrive application.
+4. Sign in using your Microsoft or organization account.
+5. Complete the setup process.
+6. Reopen File Explorer and check the navigation pane.
+
+### 2. Files Are Not Synchronizing
+
+**Possible causes:**
+- No internet connection.
+- OneDrive synchronization is paused.
+- Storage is full.
+- A file has a synchronization error.
+
+**Solutions:**
+
+1. Check your internet connection.
+2. Click the OneDrive cloud icon in the taskbar.
+3. Check for error messages.
+4. Confirm synchronization is not paused.
+5. Check your available OneDrive storage.
+6. Resolve any errors displayed by OneDrive.
+
+### 3. Files Will Not Download
+
+**Possible causes:**
+- No internet connection.
+- Insufficient local storage.
+- OneDrive is not signed in.
+- The file is no longer available or access has been removed.
+
+**Solutions:**
+
+1. Verify your internet connection.
+2. Confirm you are signed in to OneDrive.
+3. Check available storage on your computer.
+4. Open File Explorer and locate the file.
+5. Right-click the file and select **Always keep on this device**.
+6. Wait for the download to complete.
+
+### 4. Red X Appears Next to a File
+
+A red X indicates a OneDrive synchronization problem.
+
+**Solutions:**
+
+1. Click the OneDrive cloud icon.
+2. Review the displayed error message.
+3. Check whether the file name contains unsupported characters.
+4. Verify that you have permission to access the file.
+5. Check your available cloud storage.
+6. Follow the instructions provided by OneDrive to resolve the error.
+
+### 5. OneDrive Storage Is Full
+
+**Solutions:**
+
+1. Review your OneDrive storage usage.
+2. Identify files that are no longer needed.
+3. Move important files elsewhere before deleting anything.
+4. Remove unnecessary files from OneDrive.
+5. Empty the OneDrive recycle bin if appropriate.
+6. Contact your organization's IT department if additional storage is required.
+
+**Important:** Deleting a file from OneDrive can also remove it from other synchronized devices.
+
+### 6. Files Are Not Appearing on Another Device
+
+**Solutions:**
+
+1. Confirm both devices are connected to the internet.
+2. Verify that both devices use the same OneDrive account.
+3. Check the OneDrive synchronization status on the original device.
+4. Wait for synchronization to finish.
+5. Refresh File Explorer on the second device.
+6. Check OneDrive online to confirm the file exists.
+
+### 7. Recover a Deleted File
+
+1. Open OneDrive in your web browser.
+2. Navigate to the **Recycle bin**.
+3. Locate the deleted file.
+4. Select the file.
+5. Click **Restore**, if available.
+
+Recovery availability depends on account type, retention policies, and whether the file has been permanently deleted.
+
+### Additional Support
+
+If these troubleshooting steps do not resolve the problem:
+
+- Contact your organization's IT support team.
+- Visit [Microsoft OneDrive Support](https://support.microsoft.com/onedrive).
+- Review the OneDrive synchronization status and error messages.
 
 ---
 
 **Document Version:** 1.0  
 **Platform:** Windows 11  
-**Last Updated:** October 2026
+**Last Updated:** November 2026
+
