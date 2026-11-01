@@ -37,11 +37,11 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Identifying the Main Areas
 
-- **Navigation pane:** Displays locations such as Home, Desktop, Downloads, Documents, and OneDrive.
-- **Address bar:** Shows the current folder location.
-- **Search box:** Allows you to search for files and folders.
-- **Main file area:** Displays the files and folders in the selected location.
-- **Command bar:** Provides options for creating, copying, moving, and managing files.
+1. **Navigation pane:** Displays locations such as Home, Desktop, Downloads, Documents, and OneDrive.
+2. **Address bar:** Shows the current folder location.
+3. **Search box:** Allows you to search for files and folders.
+4. **Main file area:** Displays the files and folders in the selected location.
+5. **Command bar:** Provides options for creating, copying, moving, and managing files.
 
 ![Windows 11 File Explorer Home screen](images/file-explorer-home.png)
 
