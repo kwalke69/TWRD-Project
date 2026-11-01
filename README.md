@@ -55,7 +55,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 *Figure 2: Creating Folder in Windows 11.*
 
-1. [Open File Explorer](Opening-File-Explorer)
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to the location where you want to create a folder.
 3. Click **New** in the command bar.
 4. Select **Folder**.
@@ -105,7 +105,7 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 ### Locating OneDrive
 
-1. [Open File Explorer](Opening-File-Explorer)
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Locate OneDrive in the navigation pane.
 3. Click OneDrive to open the folder.
 
@@ -144,13 +144,11 @@ OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
 
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
 
-
-
 ## Accessing and Downloading Files
 
 ### Downloading an Online-Only File
 
-1. [Open File Explorer](Opening-File-Explorer)
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to your OneDrive folder.
 3. Locate the file with a blue cloud icon.
 4. Double-click the file to download and open it.
@@ -182,7 +180,7 @@ Shared file permissions determine whether you can view, download, or edit the fi
 
 ### Making Files Available Offline
 
-1. [Open File Explorer](Opening-File-Explorer)
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to OneDrive.
 3. Right-click the desired file or folder.
 4. Select **Always keep on this device**.
@@ -195,7 +193,6 @@ Shared file permissions determine whether you can view, download, or edit the fi
 3. Windows removes the local copy when possible while retaining the file in OneDrive.
 
 **Important:** Files marked as online-only require an internet connection to download and open.
-
 
 ## Accessing and Downloading Files
 
