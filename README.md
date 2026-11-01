@@ -51,6 +51,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Creating a New Folder
 
+![Windows 11 Creating a Folder](images/folder-creation.png)
 1. Open File Explorer by pressing `Windows + E`.
 2. Navigate to the location where you want to create a folder.
 3. Click **New** in the command bar.
