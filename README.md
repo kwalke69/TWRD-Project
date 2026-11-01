@@ -96,6 +96,10 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
+![Windows 11 Creating and Editing a File](images/file-creation-example.png)
+
+*Figure 3: Creating and Editing a file in Windows 11.*
+
 ## Accessing OneDrive
 
 Instructions for locating and opening the OneDrive folder in File Explorer.
