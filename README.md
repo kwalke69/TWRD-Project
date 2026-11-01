@@ -78,7 +78,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 4. Close the application.
 
 ### Renaming a File
-
+  
 1. Right-click the file.
 2. Select **Rename**.
 3. Enter the new filename.
@@ -100,9 +100,54 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 *Figure 3: Creating and Editing a file in Windows 11.*
 
+
 ## Accessing OneDrive
 
-Instructions for locating and opening the OneDrive folder in File Explorer.
+### Locating OneDrive
+
+1. Press `Windows + E` to open File Explorer.
+2. Locate OneDrive in the navigation pane.
+3. Click OneDrive to open the folder.
+
+OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
+
+### Signing In to OneDrive
+
+1. Open the Windows Start menu.
+2. Search for OneDrive.
+3. Open the OneDrive application.
+4. Sign in using your Microsoft account or organization account.
+5. Follow the setup instructions.
+6. Confirm the location of your OneDrive folder.
+
+### Creating a Folder in OneDrive
+
+1. Open OneDrive in File Explorer.
+2. Click **New** in the command bar.
+3. Select **Folder**.
+4. Enter a folder name.
+5. Press `Enter`.
+
+### Saving Files to OneDrive
+
+1. Locate the file you want to move.
+2. Right-click the file and select **Cut**.
+3. Open the destination folder in OneDrive.
+4. Right-click inside the folder and select **Paste**.
+5. Wait for OneDrive to synchronize the file.
+
+### Understanding OneDrive Status Icons
+
+| Icon | Meaning |
+|---|---|
+| Blue cloud | Online-only file |
+| Green outlined check | Locally available file |
+| Solid green check | Always available on this device |
+| Sync arrows | Synchronization in progress |
+| Red X | Synchronization error |
+
+**Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
+
 
 ## Saving Files to OneDrive
 
