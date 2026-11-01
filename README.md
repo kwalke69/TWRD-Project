@@ -199,7 +199,7 @@ Shared file permissions determine whether you can view, download, or edit the fi
 
 ### Sharing a File
 
-1. Open File Explorer using `Windows + E`.
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to your OneDrive folder.
 3. Right-click the file you want to share.
 4. Select **Share**.
@@ -253,7 +253,7 @@ When you create, edit, rename, or move files inside your synchronized OneDrive f
 
 ### 1. Check OneDrive Sync Status
 
-1. Press `Windows + E` to open File Explorer.
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to your OneDrive folder.
 3. Locate the Status column.
 4. Review the icon displayed next to each file or folder.
@@ -303,7 +303,7 @@ Folders that are not selected may remain available online but will not be synchr
 
 ### 5. Make Files Available Offline
 
-1. Open File Explorer.
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to OneDrive.
 3. Right-click the desired file or folder.
 4. Select **Always keep on this device**.
@@ -313,7 +313,7 @@ The file will now be stored locally and available without an internet connection
 
 ### 6. Free Up Local Storage
 
-1. Open File Explorer.
+1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to OneDrive.
 3. Right-click a downloaded file or folder.
 4. Select **Free up space**.
