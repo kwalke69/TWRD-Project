@@ -128,7 +128,7 @@ OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
 4. Enter a folder name.
 5. Press `Enter`.
 
-### Saving Files to OneDrive
+## Saving Files to OneDrive
 
 1. Locate the file you want to move.
 2. Right-click the file and select **Cut**.
