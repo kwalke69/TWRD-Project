@@ -4,27 +4,25 @@
 
 This guide provides step-by-step instructions for using Windows 11 File Explorer and Microsoft OneDrive to create, access, organize, share, and download files.
 
-The guide is designed for users with little or no prior experience.
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Understanding File Explorer](#understanding-file-explorer)
-3. [Creating Files and Folders](#creating-files-and-folders)
-4. [Accessing OneDrive](#accessing-onedrive)
-5. [Saving Files to OneDrive](#saving-files-to-onedrive)
-6. [Accessing and Downloading Files](#accessing-and-downloading-files)
-7. [Sharing Files and Folders](#sharing-files-and-folders)
-8. [Managing OneDrive Sync](#managing-onedrive-sync)
-9. [Troubleshooting](#troubleshooting)
-
 ## Getting Started
 
-### Requirements
+**Requirements**
 
 - A Windows 11 computer
 - A Microsoft account or organization account
 - Microsoft OneDrive access
 - An internet connection for cloud file access and synchronization
+  
+## Table of Contents
+
+1. [Understanding File Explorer](#understanding-file-explorer)
+2. [Creating Files and Folders](#creating-files-and-folders)
+3. [Accessing OneDrive](#accessing-onedrive)
+4. [Saving Files to OneDrive](#saving-files-to-onedrive)
+5. [Accessing and Downloading Files](#accessing-and-downloading-files)
+6. [Sharing Files and Folders](#sharing-files-and-folders)
+7. [Managing OneDrive Sync](#managing-onedrive-sync)
+8. [Troubleshooting](#troubleshooting)
 
 ## Understanding File Explorer
 
@@ -33,7 +31,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 ### Opening File Explorer
 
 1. Click the folder icon on the Windows taskbar.
-2. Alternatively, press `Windows + E` on your keyboard.
+2. Shortcut: Press `Windows + E` on your keyboard.
 
 ### Identifying the Main Areas
 
