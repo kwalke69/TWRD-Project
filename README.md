@@ -45,9 +45,9 @@ File Explorer is the Windows application used to browse, create, organize, and m
 4. **Main file area:** Displays the files and folders in the selected location.
 5. **Command bar:** Provides options for creating, copying, moving, and managing files.
 
-![Windows 11 File Explorer Home screen](images/file-explorer-home.png)
+![Windows 11 File Explorer Home screen](images/file-explorer-home.jpg)
 
-*Figure 1: Windows 11 File Explorer main window.*
+*Figure 2: Windows 11 File Explorer main window.*
 
 ## Creating Files and Folders
 
