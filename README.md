@@ -33,6 +33,10 @@ File Explorer is the Windows application used to browse, create, organize, and m
 1. Click the folder icon on the Windows taskbar.
 2. Shortcut: Press `Windows + E` on your keyboard.
 
+![Taskbar](images/taskbar.png)
+
+*Figure 1: Windows Taksbar.*
+
 ### Identifying the Main Areas
 
 1. **Navigation pane:** Displays locations such as Home, Desktop, Downloads, Documents, and OneDrive.
