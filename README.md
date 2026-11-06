@@ -55,16 +55,16 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Creating a New Folder
 
-![Windows 11 Creating a Folder](images/folder-creation.png)
-
-*Figure 2: Creating Folder in Windows 11.*
-
 1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to the location where you want to create a folder.
 3. Click **New** in the command bar.
 4. Select **Folder**.
 5. Enter a folder name.
 6. Press `Enter`.
+
+   ![Windows 11 Creating a Folder](images/creating-folder-v2.png)
+
+*Figure 3: Creating Folder in Windows 11.*
 
 ### Creating a New File
 
@@ -73,6 +73,10 @@ File Explorer is the Windows application used to browse, create, organize, and m
 3. Select **Text Document**.
 4. Enter a filename.
 5. Press `Enter`.
+
+  ![Windows 11 Creating a File](images/creating-file-v2.png)
+
+*Figure 4: Creating File in Windows 11.*
 
 ### Editing and Saving a File
 
@@ -90,7 +94,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Example
 
-Create a folder named `Training Documents`.
+Create a folder in Documents named `Training Documents`.
 
 Inside the folder, create a text file named `Getting Started.txt`.
 
@@ -100,9 +104,9 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
-![Windows 11 Creating and Editing a File](images/file-creation-example.png)
+![Windows 11 Creating and Editing a File](images/Video Project.mp4)
 
-*Figure 3: Creating and Editing a file in Windows 11.*
+*Figure 4: Creating and Editing a file in Windows 11.*
 
 
 ## Accessing OneDrive
