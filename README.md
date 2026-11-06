@@ -31,7 +31,9 @@ File Explorer is the Windows application used to browse, create, organize, and m
 ### Opening File Explorer
 
 1. Click the folder icon on the Windows taskbar.
-2. Shortcut: Press `Windows + E` on your keyboard.
+
+  *Shortcut: Press `Windows + E` on your keyboard.*
+
 
 ![Taskbar](images/taskbar.png)
 
