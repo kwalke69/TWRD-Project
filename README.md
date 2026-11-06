@@ -62,7 +62,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 5. Enter a folder name.
 6. Press `Enter`.
 
-   ![Windows 11 Creating a Folder](images/creating-folder-v2.png)
+   ![Windows 11 Creating a Folder](images/creating-folder-v2.jpg)
 
 *Figure 3: Creating Folder in Windows 11.*
 
@@ -104,7 +104,7 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
-![Windows 11 Creating and Editing a File](images/Video Project.mp4)
+  ![Windows 11 Creating and Editing a File](images/Video Project.mp4)
 
 *Figure 4: Creating and Editing a file in Windows 11.*
 
