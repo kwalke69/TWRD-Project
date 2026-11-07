@@ -104,6 +104,8 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
+  ![Creating and Editing Example](images/project video.mp4)
+
 ## Accessing OneDrive
 
 ### Locating OneDrive
