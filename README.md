@@ -68,7 +68,7 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Creating a New File
 
-1. Open the folder where you want to create the file.
+1. Open the folder where you want to create the file by Double-clicking.
 2. Click **New** in the command bar.
 3. Select **Text Document**.
 4. Enter a filename.
@@ -80,14 +80,14 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 ### Editing and Saving a File
 
-1. Double-click the file to open it.
+1. Open the created file.
 2. Enter your information.
 3. Press `Ctrl + S` to save.
 4. Close the application.
 
 ### Renaming a File
   
-1. Right-click the file.
+1. Select any file.
 2. Select **Rename**.
 3. Enter the new filename.
 4. Press `Enter`.
@@ -114,8 +114,6 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 2. Locate OneDrive in the navigation pane.
 3. Click OneDrive to open the folder.
 
-OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
-
 ### Signing In to OneDrive
 
 1. Open the Windows Start menu.
@@ -124,14 +122,6 @@ OneDrive may appear as OneDrive - Personal or OneDrive - [Organization].
 4. Sign in using your Microsoft account or organization account.
 5. Follow the setup instructions.
 6. Confirm the location of your OneDrive folder.
-
-### Creating a Folder in OneDrive
-
-1. Open OneDrive in File Explorer.
-2. Click **New** in the command bar.
-3. Select **Folder**.
-4. Enter a folder name.
-5. Press `Enter`.
 
 ## Saving Files to OneDrive
 
