@@ -104,7 +104,7 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
-  ![Creating and Editing Example](images/video-project.mp4)
+  ![Creating and Editing Example](https://github.com/kwalke69/TWRD-Project/issues/1#issue-6253565989)
 
 ## Accessing OneDrive
 
