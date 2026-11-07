@@ -104,11 +104,6 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
-  ![Windows 11 Creating and Editing a File](images/Video Project.mp4)
-
-*Figure 4: Creating and Editing a file in Windows 11.*
-
-
 ## Accessing OneDrive
 
 ### Locating OneDrive
