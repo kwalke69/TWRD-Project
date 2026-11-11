@@ -1,10 +1,38 @@
+<!-- ===================================================== -->
+<!-- WINDOWS 11 FILE EXPLORER & ONEDRIVE GUIDE              -->
+<!-- ===================================================== -->
+
+
+
+<div align="center">
+
 # Windows 11 File Explorer & OneDrive Guide
+
+### A Step-by-Step Visual Instruction Manual
+
+<img src="images/onedrive-banner.png" alt="OneDrive Guide Banner" width="650">
+
+**Learn how to create, organize, save, download, synchronize, and share files using Windows 11 and Microsoft OneDrive.**
+
+![Platform](https://img.shields.io/badge/Platform-Windows%2011-blue)
+![Storage](https://img.shields.io/badge/Cloud-Microsoft%20OneDrive-0078D4)
+![Guide](https://img.shields.io/badge/Guide-Beginner%20Friendly-green)
+
+</div>
+
+<div align="center">
 
 ## Introduction
 
+</div>
+
 This guide provides step-by-step instructions for using Windows 11 File Explorer and Microsoft OneDrive to create, access, organize, share, and download files.
 
+<div align="center">
+
 ## Getting Started
+
+</div>
 
 **Requirements**
 
@@ -12,8 +40,12 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 - A Microsoft account or organization account
 - Microsoft OneDrive access
 - An internet connection for cloud file access and synchronization
+
+<div align="center">
   
-## Table of Contents
+# Table of Contents
+
+</div>
 
 1. [Understanding File Explorer](#understanding-file-explorer)
 2. [Creating Files and Folders](#creating-files-and-folders)
@@ -24,7 +56,17 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 7. [Managing OneDrive Sync](#managing-onedrive-sync)
 8. [Troubleshooting](#troubleshooting)
 
-## Understanding File Explorer
+---
+
+<!-- ===================================================== -->
+<!-- SECTION 1                                             -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# Understanding File Explorer
+
+</div>
 
 File Explorer is the Windows application used to browse, create, organize, and manage files and folders.
 
