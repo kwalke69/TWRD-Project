@@ -155,7 +155,7 @@ Enter the following text:
 
 Save the file and rename it to `File Explorer Introduction.txt`.
 
-  ![Creating and Editing Example](https://github.com/kwalke69/TWRD-Project/issues/1#issue-6253565989)
+https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
 ## Accessing OneDrive
 
