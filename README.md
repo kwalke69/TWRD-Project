@@ -1,16 +1,4 @@
-<!-- ===================================================== -->
-<!-- WINDOWS 11 FILE EXPLORER & ONEDRIVE GUIDE              -->
-<!-- ===================================================== -->
-
-
-
-<div align="center">
-
 # Windows 11 File Explorer & OneDrive Guide
-
-### A Step-by-Step Visual Instruction Manual
-
-<img src="images/onedrive-banner.png" alt="OneDrive Guide Banner" width="650">
 
 **Learn how to create, organize, save, download, synchronize, and share files using Windows 11 and Microsoft OneDrive.**
 
@@ -18,18 +6,12 @@
 ![Storage](https://img.shields.io/badge/Cloud-Microsoft%20OneDrive-0078D4)
 ![Guide](https://img.shields.io/badge/Guide-Beginner%20Friendly-green)
 
-</div>
-
-<div align="center">
-
-## Introduction
-
-</div>
+# Introduction
 
 This guide provides step-by-step instructions for using Windows 11 File Explorer and Microsoft OneDrive to create, access, organize, share, and download files.
 
 <div align="center">
-
+  
 ## Getting Started
 
 </div>
@@ -41,14 +23,10 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 - Microsoft OneDrive access
 - An internet connection for cloud file access and synchronization
 
-<div align="center">
-  
 # Table of Contents
 
-</div>
-
-1. [Understanding File Explorer](#understanding-file-explorer)
-2. [Creating Files and Folders](#creating-files-and-folders)
+1. [Understanding File Explorer](#1-understanding-file-explorer)
+2. [Creating Files and Folders](#2-creating-files-and-folders)
 3. [Accessing OneDrive](#accessing-onedrive)
 4. [Saving Files to OneDrive](#saving-files-to-onedrive)
 5. [Accessing and Downloading Files](#accessing-and-downloading-files)
@@ -57,31 +35,38 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 8. [Troubleshooting](#troubleshooting)
 
 ---
+---
+---
 
 <!-- ===================================================== -->
 <!-- SECTION 1                                             -->
 <!-- ===================================================== -->
 
-<div align="center">
+# 1. Understanding File Explorer
 
-# Understanding File Explorer
+**File Explorer is the Windows application used to browse, create, organize, and manage files and folders.**
+
+<div align="center">
+  
+## 1.1 Opening File Explorer
 
 </div>
-
-File Explorer is the Windows application used to browse, create, organize, and manage files and folders.
-
-### Opening File Explorer
 
 1. Click the folder icon on the Windows taskbar.
 
   *Shortcut: Press `Windows + E` on your keyboard.*
 
+---
 
 ![Taskbar](images/taskbar.png)
 
 *Figure 1: Windows Taksbar.*
 
-### Identifying the Main Areas
+<div align="center"> 
+  
+## 1.2 Identifying the Main Areas
+
+</div>
 
 1. **Navigation pane:** Displays locations such as Home, Desktop, Downloads, Documents, and OneDrive.
 2. **Address bar:** Shows the current folder location.
@@ -93,22 +78,34 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 *Figure 2: Windows 11 File Explorer main window.*
 
-## Creating Files and Folders
+<!-- ===================================================== -->
+<!-- SECTION 2                                             -->
+<!-- ===================================================== -->
 
-### Creating a New Folder
+# 2. Creating Files and Folders
 
-1. [Open File Explorer](#Opening-File-Explorer)
+<div align="center">
+  
+## 2.1 Creating a New Folder
+
+</div>
+
+1. [Open File Explorer](#11-opening-file-explorer)
 2. Navigate to the location where you want to create a folder.
 3. Click **New** in the command bar.
 4. Select **Folder**.
 5. Enter a folder name.
 6. Press `Enter`.
 
-   ![Windows 11 Creating a Folder](images/creating-folder-v2.jfif)
+  ![Windows 11 Creating a Folder](images/creating-folder-v2.jfif)
 
 *Figure 3: Creating Folder in Windows 11.*
 
-### Creating a New File
+<div align="center">
+  
+## 2.2 Creating a New File
+
+</div>
 
 1. Open the folder where you want to create the file by Double-clicking.
 2. Click **New** in the command bar.
@@ -120,21 +117,33 @@ File Explorer is the Windows application used to browse, create, organize, and m
 
 *Figure 4: Creating File in Windows 11.*
 
-### Editing and Saving a File
+<div align="center">
+  
+## 2.3 Editing and Saving a File
+
+</div>
 
 1. Open the created file.
 2. Enter your information.
 3. Press `Ctrl + S` to save.
 4. Close the application.
 
-### Renaming a File
+<div align="center">
   
+## 2.4 Renaming a File
+
+</div>
+
 1. Select any file.
 2. Select **Rename**.
 3. Enter the new filename.
 4. Press `Enter`.
 
-### Example
+<div align="center">
+  
+## Example
+
+</div>
 
 Create a folder in Documents named `Training Documents`.
 
