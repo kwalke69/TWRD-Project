@@ -158,7 +158,6 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
 # 3. Accessing OneDrive
 
-
 <div align="center">
   
 ## 3.1 Signing In to OneDrive
@@ -174,19 +173,29 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 5. Sign in using your Microsoft account or organization account.
 6. Follow the setup instructions.
 
-   ![OneDrive Log-In](
+![OneDrive Log-In](
    
 8. Confirm the location of your OneDrive folder.
 
-   ![OneDrive File Explorer](
+![OneDrive File Explorer](
 
-## 3.1 Saving Files to OneDrive
+<div align="center">
+  
+## 3.2 Saving Files to OneDrive
+
+</div>
 
 1. Locate the file you want to move.
 2. Right-click the file and select **Cut**.
 3. Open the destination folder in OneDrive.
 4. Right-click inside the folder and select **Paste**.
 5. Wait for OneDrive to synchronize the file.
+
+
+
+
+
+
 
 ### Understanding OneDrive Status Icons
 
