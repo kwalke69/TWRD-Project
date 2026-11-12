@@ -28,10 +28,9 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 1. [Understanding File Explorer](#1-understanding-file-explorer)
 2. [Creating Files and Folders](#2-creating-files-and-folders)
 3. [Accessing OneDrive](#accessing-onedrive)
-4. [Saving Files to OneDrive](#saving-files-to-onedrive)
-5. [Accessing and Downloading Files](#accessing-and-downloading-files)
-6. [Sharing Files and Folders](#sharing-files-and-folders)
-7. [Managing OneDrive Sync](#managing-onedrive-sync)
+4. [Accessing and Downloading Files](#accessing-and-downloading-files)
+5. [Sharing Files and Folders](#sharing-files-and-folders)
+6. [Managing OneDrive Sync](#managing-onedrive-sync)
 8. [Troubleshooting](#troubleshooting)
 
 ---
@@ -157,24 +156,31 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
-## Accessing OneDrive
+# 3. Accessing OneDrive
 
-### Locating OneDrive
 
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Locate OneDrive in the navigation pane.
-3. Click OneDrive to open the folder.
+<div align="center">
+  
+## 3.1 Signing In to OneDrive
 
-### Signing In to OneDrive
+</div>
 
-1. Open the Windows Start menu.
+1. Open the Windows Start menu in the taskbar.
 2. Search for OneDrive.
 3. Open the OneDrive application.
-4. Sign in using your Microsoft account or organization account.
-5. Follow the setup instructions.
-6. Confirm the location of your OneDrive folder.
 
-## Saving Files to OneDrive
+![Finding OneDrive](
+
+5. Sign in using your Microsoft account or organization account.
+6. Follow the setup instructions.
+
+   ![OneDrive Log-In](
+   
+8. Confirm the location of your OneDrive folder.
+
+   ![OneDrive File Explorer](
+
+## 3.1 Saving Files to OneDrive
 
 1. Locate the file you want to move.
 2. Right-click the file and select **Cut**.
