@@ -191,44 +191,50 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 4. Right-click inside the folder and select **Paste**.
 5. Wait for OneDrive to synchronize the file.
 
+*Example Video*
 
+<div align="center">
 
+## 3.3 Understanding OneDrive Status Icons
 
+</div>
 
-
-
-### Understanding OneDrive Status Icons
+| Status Icon | Meaning |
+|---|---|
+| Blue cloud | File is online-only |
+| Green outlined check | File is downloaded and locally available |
+| Solid green circle with check | File is set to always remain on this device |
+| Blue circular arrows | File is synchronizing |
+| Red X | Synchronization error |
 
 ![OneDrive Status Icons](images/onedrive-icons.png)
 
 *Figure 4: OneDrive Status Icons.*
 
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
+  
+# 4. Accessing and Downloading Files
 
-## Accessing and Downloading Files
+<div align="center">
 
-### Downloading an Online-Only File
+## 4.1 Downloading Online-Only Files
 
-1. [Open File Explorer](#Opening-File-Explorer)
+</div>
+
+1. [Open File Explorer](#11-opening-file-explorer)
 2. Navigate to your OneDrive folder.
-3. Locate the file with a blue cloud icon.
-4. Double-click the file to download and open it.
+3. Hold `Ctrl` and select the files you want.
+4. Right-click one of the selected files.
+5. Select **Always keep on this device**.
+6. Wait for the download to complete.
 
-Alternatively:
+**Note**: Opening an Online-Only file downloads it automatically. *
 
-1. Right-click the file.
-2. Select **Always keep on this device**.
-3. Wait for the download to complete.
+<div align="center">
+  
+## 4.2 Accessing Shared Files
 
-### Downloading Multiple Files
-
-1. Open the OneDrive folder.
-2. Hold `Ctrl` and select the files you want.
-3. Right-click one of the selected files.
-4. Select **Always keep on this device**.
-5. Wait for the download to complete.
-
-### Accessing Shared Files
+</div>
 
 1. Open OneDrive in your browser.
 2. Navigate to **Shared**.
@@ -239,7 +245,11 @@ Alternatively:
 
 Shared file permissions determine whether you can view, download, or edit the file.
 
-### Making Files Available Offline
+<div align="center">
+  
+## 4.3 Making Files Available Offline
+
+</div>
 
 1. [Open File Explorer](#Opening-File-Explorer)
 2. Navigate to OneDrive.
@@ -247,7 +257,11 @@ Shared file permissions determine whether you can view, download, or edit the fi
 4. Select **Always keep on this device**.
 5. Wait for the green checkmark to appear.
 
-### Freeing Up Local Storage
+<div align="center">
+  
+## 4.4 Freeing Up Local Storage
+
+</div>
 
 1. Right-click a locally downloaded OneDrive file.
 2. Select **Free up space**.
