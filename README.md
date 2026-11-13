@@ -25,13 +25,12 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 # Table of Contents
 
-1. [Understanding File Explorer](#1-understanding-file-explorer)
+1. [File Explorer](#1-file-explorer)
 2. [Creating Files and Folders](#2-creating-files-and-folders)
-3. [Accessing OneDrive](#accessing-onedrive)
-4. [Accessing and Downloading Files](#accessing-and-downloading-files)
-5. [Sharing Files and Folders](#sharing-files-and-folders)
-6. [Managing OneDrive Sync](#managing-onedrive-sync)
-8. [Troubleshooting](#troubleshooting)
+3. [OneDrive Setup and Sync](#3-onedrive-setup-and-sync)
+4. [Downloading and Shared Files](#4-downloading-and-shared-files)
+5. [Sharing Files and Folders](#5-sharing-files-and-folders)
+6. [Troubleshooting](#6-troubleshooting)
 
 ---
 ---
@@ -41,7 +40,7 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 <!-- SECTION 1                                             -->
 <!-- ===================================================== -->
 
-# 1. Understanding File Explorer
+# 1. File Explorer
 
 **File Explorer is the Windows application used to browse, create, organize, and manage files and folders.**
 
@@ -156,13 +155,13 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
-# 3. Accessing and Managing OneDrive
+# 3. OneDrive Setup and Sync
 
-OneDrive keeps the files in your OneDrive folder on your Windows 11 computer connected to your cloud storage. When you create, edit, rename, or move files in that folder, OneDrive updates them in the cloud.
+OneDrive keeps the files in your OneDrive folder synchronized with your cloud storage. Changes you make to files in that folder are updated in the cloud, which can take time depending on your connection and file size.
 
 <div align="center">
 
-## 3.1 Signing In to OneDrive
+## 3.1 Sign In
 
 </div>
 
@@ -215,7 +214,37 @@ OneDrive keeps the files in your OneDrive folder on your Windows 11 computer con
 
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
 
+<div align="center">
+  
+## 3.4 Pause or Resume Sync
 
+</div>
+
+1. Click the OneDrive cloud icon and select the **Settings** gear.
+2. Select **Pause syncing** and choose a duration, or select **Resume syncing**.
+
+<div align="center">
+  
+## 3.5 Choose Which Folders Sync
+
+</div>
+
+1. Click the OneDrive cloud icon and open **Settings**.
+2. Select **Account** > **Choose folders**.
+3. Select or clear folders, then confirm.
+
+Cleared folders stay available online but do not sync to your computer.
+
+<div align="center">
+  
+## Best Practices
+
+</div>
+
+- Let OneDrive finish syncing before shutting down or going offline.
+- Check status icons before assuming a file is available offline.
+- Monitor your OneDrive storage.
+- Deleting a synced file can remove it from all your devices.
   
 # 4. Accessing and Downloading Files
 
@@ -232,68 +261,44 @@ OneDrive keeps the files in your OneDrive folder on your Windows 11 computer con
 5. Select **Always keep on this device**.
 6. Wait for the download to complete.
 
-**Note**: Opening an Online-Only file downloads it automatically. *
+**Note**: The items are now available without an internet connection. Opening an online-only file also downloads it automatically.
+
+*Figure 6:*
 
 <div align="center">
   
-## 4.2 Accessing Shared Files
+## 4.2 Free Up Local Storage
 
 </div>
 
-1. Open OneDrive in your browser.
-2. Navigate to **Shared**.
-3. Locate the file or folder shared with you.
-4. If available, select **Add shortcut to My files**.
-5. Open File Explorer.
-6. Navigate to OneDrive and locate the shared item.
-
-Shared file permissions determine whether you can view, download, or edit the file.
+Right-click a downloaded file or folder and select **Free up space**. The local copy is removed when possible, and the file stays in OneDrive. Online-only files need an internet connection to open.
 
 <div align="center">
   
-## 4.3 Making Files Available Offline
+## 4.3 Open Files Shared with You
 
 </div>
 
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Navigate to OneDrive.
-3. Right-click the desired file or folder.
-4. Select **Always keep on this device**.
-5. Wait for the green checkmark to appear.
+1. In your browser, open OneDrive and go to **Shared**.
+2. Find the item and, if available, select **Add shortcut to My files**.
+3. In File Explorer, open OneDrive and locate the item.
 
-<div align="center">
-  
-## 4.4 Freeing Up Local Storage
-
-</div>
-
-1. Right-click a locally downloaded OneDrive file.
-2. Select **Free up space**.
-3. Windows removes the local copy when possible while retaining the file in OneDrive.
-
-**Important:** Files marked as online-only require an internet connection to download and open.
-
+Your permissions determine whether you can view, download, or edit it.
 
 # 5. Sharing Files and Folders
 
-<div align="center"
-  
-## 5.1 Sharing a File
+<div align="center">
+
+## 5.1 Share with a Specific Person
 
 </div>
 
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Navigate to your OneDrive folder.
-3. Right-click the file you want to share.
-4. Select **Share**.
+1. In File Explorer, right-click a file or folder in OneDrive and select **Share**.
+2. Enter the recipient's name or email address.
+3. Choose **Can view** or **Can edit**.
+4. Add an optional message and click **Send**.
 
-##  Sharing with a Specific Person
-
-1. Enter the recipient's name or email address.
-2. Review the permission settings.
-3. Choose whether the recipient can view or edit the file.
-4. Add an optional message.
-5. Click **Send**.
+*Figure 7:*
 
 <div align="center">
 
@@ -301,126 +306,25 @@ Shared file permissions determine whether you can view, download, or edit the fi
 
 </div>
 
-1. Right-click the file.
-2. Select **Share**.
-3. Review the link settings.
-4. Select the appropriate audience.
-5. Click **Copy link**.
-6. Paste the link into an email or message using `Ctrl + V`.
-
-### Sharing a Folder
-
-1. Open File Explorer.
-2. Navigate to OneDrive.
-3. Right-click the folder.
-4. Select **Share**.
-5. Enter the recipient's email address.
-6. Review the permissions.
-7. Click **Send**.
+1. Right-click the item and select **Share**.
+2. Choose the audience and permissions.
+3. Click **Copy link**, then paste it with `Ctrl + V`.
 
 <div align="center">
-  
-## 5.3 Managing Access
+   
+### 5.3 Manage Access
 
 </div>
 
-1. Open OneDrive in your browser.
-2. Locate the shared file or folder.
-3. Select **Manage access**.
-4. Review existing permissions and sharing links.
-5. Remove access or stop sharing when necessary.
+1. In your browser, open OneDrive and find the shared item.
+2. Select **Manage access**.
+3. Review permissions and links, and remove access when needed.
+
+*Figure 8: Manage access.*
 
 **Best practice:** Share files with specific people and use view-only permissions whenever editing is not required.
 
-## Managing OneDrive Sync
-
-### Understanding OneDrive Synchronization
-
-OneDrive synchronization keeps files in your OneDrive folder on your Windows 11 computer connected to your cloud storage.
-
-When you create, edit, rename, or move files inside your synchronized OneDrive folder, OneDrive updates those changes in the cloud.
-
-**Important:** Changes may take time to synchronize depending on your internet connection and file size.
-
-### 1. Check OneDrive Sync Status
-
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Navigate to your OneDrive folder.
-3. Locate the Status column.
-4. Review the icon displayed next to each file or folder.
-
-| Status Icon | Meaning |
-|---|---|
-| Blue cloud | File is online-only |
-| Green outlined check | File is downloaded and locally available |
-| Solid green circle with check | File is set to always remain on this device |
-| Blue circular arrows | File is synchronizing |
-| Red X | Synchronization error |
-
-### 2. Check OneDrive Sync Activity
-
-1. Locate the OneDrive cloud icon in the Windows taskbar notification area.
-2. Click the OneDrive icon.
-3. Review the synchronization activity.
-4. Check whether files are uploading, downloading, or waiting to synchronize.
-
-If the icon is not visible, click the upward arrow to display hidden taskbar icons.
-
-### 3. Pause and Resume Synchronization
-
-To pause synchronization:
-
-1. Click the OneDrive cloud icon.
-2. Select the Settings gear icon.
-3. Select **Pause syncing**.
-4. Choose the desired pause duration.
-
-To resume synchronization:
-
-1. Click the OneDrive cloud icon.
-2. Open the settings menu.
-3. Select **Resume syncing**.
-
-### 4. Choose Which Folders Synchronize
-
-1. Click the OneDrive cloud icon.
-2. Open **Settings**.
-3. Select the **Account** section.
-4. Click **Choose folders**.
-5. Select or clear the folders you want synchronized.
-6. Confirm your selections.
-
-Folders that are not selected may remain available online but will not be synchronized locally.
-
-### 5. Make Files Available Offline
-
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Navigate to OneDrive.
-3. Right-click the desired file or folder.
-4. Select **Always keep on this device**.
-5. Wait for the solid green checkmark.
-
-The file will now be stored locally and available without an internet connection.
-
-### 6. Free Up Local Storage
-
-1. [Open File Explorer](#Opening-File-Explorer)
-2. Navigate to OneDrive.
-3. Right-click a downloaded file or folder.
-4. Select **Free up space**.
-
-This removes the local copy when possible while retaining the file in OneDrive.
-
-### Best Practices
-
-- Wait for synchronization to finish before shutting down your computer.
-- Check OneDrive status icons before assuming a file is available offline.
-- Use **Always keep on this device** for important files needed without internet access.
-- Check available OneDrive storage regularly.
-- Avoid deleting files unless you intend to remove them from synchronized storage.
-
-
-## Troubleshooting
+## 6. Troubleshooting
 
 This section provides solutions to common Windows 11 File Explorer and OneDrive problems.
 
