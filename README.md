@@ -156,26 +156,26 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
-# 3. Accessing OneDrive
+# 3. Accessing and Managing OneDrive
+
+OneDrive keeps the files in your OneDrive folder on your Windows 11 computer connected to your cloud storage. When you create, edit, rename, or move files in that folder, OneDrive updates them in the cloud.
 
 <div align="center">
-  
+
 ## 3.1 Signing In to OneDrive
 
 </div>
 
-1. Open the Windows Start menu in the taskbar.
-2. Search for OneDrive.
-3. Open the OneDrive application.
+1. Open the Windows Start menu and search for **OneDrive**.
+2. Open the OneDrive application.
 
 ![Finding OneDrive](
 
-5. Sign in using your Microsoft account or organization account.
-6. Follow the setup instructions.
+3. Sign in using your Microsoft account or organization account.
 
 ![OneDrive Log-In](
    
-8. Confirm the location of your OneDrive folder.
+4. Follow the setup instructions and confirm the location of your OneDrive folder.
 
 ![OneDrive File Explorer](
 
@@ -199,6 +199,8 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
 </div>
 
+**In File Explorer:** Open your OneDrive folder and look at the icon next to each file or folder.
+
 | Status Icon | Meaning |
 |---|---|
 | Blue cloud | File is online-only |
@@ -212,6 +214,8 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 *Figure 4: OneDrive Status Icons.*
 
 **Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
+
+
   
 # 4. Accessing and Downloading Files
 
