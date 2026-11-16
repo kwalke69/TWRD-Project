@@ -28,7 +28,7 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 1. [File Explorer](#1-file-explorer)
 2. [Creating Files and Folders](#2-creating-files-and-folders)
 3. [OneDrive Setup and Sync](#3-onedrive-setup-and-sync)
-4. [Downloading and Shared Files](#4-downloading-and-shared-files)
+4. [Accessing and Downloading Files](#4-accessing-and-downloading-files)
 5. [Sharing Files and Folders](#5-sharing-files-and-folders)
 6. [Troubleshooting](#6-troubleshooting)
 
