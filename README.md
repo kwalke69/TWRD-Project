@@ -224,7 +224,7 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 </div>
 
-1. Click the OneDrive cloud icon and select the **Settings** gear.
+1. Click the OneDrive cloud icon on the taskbar and select the **Settings** gear.
 2. Select **Pause syncing** and choose a duration, or select **Resume syncing**.
 
 ![Pausing OneDrive Sync](images/pause-sync.png)
@@ -275,7 +275,9 @@ Cleared folders stay available online but do not sync to your computer.
 
 **Note**: The items are now available without an internet connection. Opening an online-only file also downloads it automatically.
 
-*Figure 6:*
+![](keeping-files.png)
+
+*Figure 6: Downloading Online-Only Files.*
 
 <div align="center">
   
@@ -292,8 +294,14 @@ Right-click a downloaded file or folder and select **Free up space**. The local 
 </div>
 
 1. In your browser, open OneDrive and go to **Shared**.
-2. Find the item and, if available, select **Add shortcut to My files**.
-3. In File Explorer, open OneDrive and locate the item.
+
+  `OneDrive website can be opened through file explorer.`
+
+   ![OneDrive Web Shortcut](images/onedrive-web.png)
+
+   
+3. Find the item and, if available, select **Add shortcut to My files**.
+4. In File Explorer, open OneDrive and locate the item.
 
 Your permissions determine whether you can view, download, or edit it.
 
