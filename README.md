@@ -176,8 +176,6 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
    
 4. Follow the setup instructions and confirm the location of your OneDrive folder.
 
-![OneDrive File Explorer](
-
 <div align="center">
   
 ## 3.2 Saving Files to OneDrive
