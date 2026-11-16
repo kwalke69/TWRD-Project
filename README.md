@@ -155,6 +155,10 @@ Save the file and rename it to `File Explorer Introduction.txt`.
 
 https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
+<!-- ===================================================== -->
+<!-- SECTION 3                                            -->
+<!-- ===================================================== -->
+
 # 3. OneDrive Setup and Sync
 
 OneDrive keeps the files in your OneDrive folder synchronized with your cloud storage. Changes you make to files in that folder are updated in the cloud, which can take time depending on your connection and file size.
@@ -190,7 +194,7 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 *Example Video*
 
-![Saving Files Example Vid](images/
+![Saving Files Example Vid](images/download.gif)
 
 <div align="center">
 
@@ -223,6 +227,8 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 1. Click the OneDrive cloud icon and select the **Settings** gear.
 2. Select **Pause syncing** and choose a duration, or select **Resume syncing**.
 
+![Pausing OneDrive Sync](images/pause-sync.png)
+
 <div align="center">
   
 ## 3.5 Choose Which Folders Sync
@@ -235,6 +241,8 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 Cleared folders stay available online but do not sync to your computer.
 
+![Selecting Synced Folders](images/selecting-folders.png)
+
 <div align="center">
   
 ## Best Practices
@@ -245,6 +253,10 @@ Cleared folders stay available online but do not sync to your computer.
 - Check status icons before assuming a file is available offline.
 - Monitor your OneDrive storage.
 - Deleting a synced file can remove it from all your devices.
+
+<!-- ===================================================== -->
+<!-- SECTION 4                                             -->
+<!-- ===================================================== -->
   
 # 4. Accessing and Downloading Files
 
