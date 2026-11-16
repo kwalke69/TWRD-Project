@@ -168,11 +168,11 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 1. Open the Windows Start menu and search for **OneDrive**.
 2. Open the OneDrive application.
 
-![Finding OneDrive](
+![Finding OneDrive](finding-OneDrive.png)
 
 3. Sign in using your Microsoft account or organization account.
 
-![OneDrive Log-In](
+![OneDrive Log-In](sign-in-OneDrive.png)
    
 4. Follow the setup instructions and confirm the location of your OneDrive folder.
 
@@ -206,7 +206,7 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 | Blue circular arrows | File is synchronizing |
 | Red X | Synchronization error |
 
-![OneDrive Status Icons](images/onedrive-icons.png)
+![OneDrive Status Icons](images/OneDrive-statuses.png)
 
 *Figure 4: OneDrive Status Icons.*
 
@@ -310,7 +310,7 @@ Your permissions determine whether you can view, download, or edit it.
 
 <div align="center">
    
-### 5.3 Manage Access
+## 5.3 Manage Access
 
 </div>
 
