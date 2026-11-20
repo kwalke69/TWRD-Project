@@ -30,6 +30,8 @@
 
 ---
 
+<a id="1-file-explorer"></a>
+
 # 📁 1. File Explorer
 
 **File Explorer is the Windows application used to browse, create, organize, and manage files and folders.**
@@ -67,6 +69,8 @@
 *Figure 2: Windows 11 File Explorer main window.*
 
 ---
+
+<a id="2-creating-files-and-folders"></a>
 
 # 📝 2. Creating Files and Folders
 
@@ -134,7 +138,9 @@ https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
 ---
 
-# 3. OneDrive Setup and Sync
+<a id="3-onedrive-setup-and-sync"></a>
+
+# ☁️ 3. OneDrive Setup and Sync
 
 OneDrive keeps the files in your OneDrive folder synchronized with your cloud storage. Changes you make to files in that folder are updated in the cloud, which can take time depending on your connection and file size.
 
@@ -233,11 +239,15 @@ Cleared folders stay available online but do not sync to your computer.
 - Let OneDrive finish syncing before shutting down or going offline.
 - Check status icons before assuming a file is available offline.
 - Monitor your OneDrive storage.
-- Deleting a synced file can remove it from all your devices.
+  
+> [!WARNING]
+> Deleting a synced file can remove it from all your devices.
 
 ---
   
-# 4. Offline Files and Storage
+<a id="4-offline-files-and-storage"></a>
+
+# 📥 4. Offline Files and Storage
 
 <div align="center">
 
@@ -266,7 +276,9 @@ Right-click a downloaded file or folder and select **Free up space**. The local 
 
 ---
 
-# 5. Sharing Files and Folders
+<a id="5-sharing-files-and-folders"></a>
+
+# 🔗 5. Sharing Files and Folders
 
 <div align="center">
 
@@ -305,9 +317,10 @@ Right-click a downloaded file or folder and select **Free up space**. The local 
 
 https://github.com/user-attachments/assets/597f3235-a13c-4ff4-bd84-d178660e8709
 
-*Figure 14: Manage Access.*
+*Figure 14: Remove Access.*
 
-**Best practice:** Share with specific people and use view-only permissions unless editing is needed.
+> [!TIP]
+> Share with specific people and use view-only permissions unless editing is needed.
 
 <div align="center">
 
@@ -323,16 +336,19 @@ Your permissions determine whether you can view, download, or edit it.
 
 ---
 
-## 6. Troubleshooting
+# 🛠️ 6. Troubleshooting
 
-Having a problem? See the [Troubleshooting guide](troubleshooting/README.md) for fixes to these common issues:
+Having a problem? Open the [Troubleshooting guide](troubleshooting/README.md), or jump straight to a fix:
 
-- [OneDrive is missing from File Explorer](troubleshooting/README.md#onedrive-is-missing-from-file-explorer)
-- [Files are not syncing, or a red X appears](troubleshooting/README.md#files-are-not-syncing-or-a-red-x-appears)
-- [Files will not download](troubleshooting/README.md#files-will-not-download)
-- [OneDrive storage is full](troubleshooting/README.md#onedrive-storage-is-full)
-- [Files are missing on another device](troubleshooting/README.md#files-are-missing-on-another-device)
-- [Recovering a deleted file](troubleshooting/README.md#recover-a-deleted-file)
+| | Problem | Fix |
+|:-:|---|---|
+| 🔎 | OneDrive is missing from File Explorer | [View fix](troubleshooting/onedrive-missing.md) |
+| 🔄 | Files are not syncing, or a red X appears | [View fix](troubleshooting/sync-errors.md) |
+| ⬇️ | Files will not download | [View fix](troubleshooting/download-problems.md) |
+| 💾 | OneDrive storage is full | [View fix](troubleshooting/storage-full.md) |
+| 💻 | Files are missing on another device | [View fix](troubleshooting/missing-on-another-device.md) |
+| ♻️ | Recovering a deleted file | [View fix](troubleshooting/recover-deleted-file.md) |
+
 
 
 ---
