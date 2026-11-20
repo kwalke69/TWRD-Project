@@ -46,8 +46,6 @@
 
   *Shortcut: Press `Windows + E` on your keyboard.*
 
----
-
 ![Taskbar](images/taskbar.png)
 
 *Figure 1: Windows Taskbar.*
@@ -84,7 +82,7 @@
 2. Click **New** in the command bar then select **Folder**.
 3. Enter a folder name and press `Enter`.
 
-![Windows 11 Creating a Folder](images/creating-folder-v2.jfif)
+![Windows 11 Creating a Folder](images/creating-folder-v2.png)
 
 *Figure 3: Creating a Folder in Windows 11.*
 
@@ -181,7 +179,7 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 <div align="center">
 
-## 3.3 Understanding OneDrive Status Icons
+## 3.3 Status Icons
 
 </div>
 
@@ -262,7 +260,7 @@ Cleared folders stay available online but do not sync to your computer.
 
 **Note**: The items are now available without an internet connection. Opening an online-only file also downloads it automatically.
 
-![Downloading Online-Only Files](keeping-files.png)
+![Downloading Online-Only Files](images/keeping-files.png)
 
 *Figure 12: Downloading Online-Only Files.*
 
@@ -348,8 +346,6 @@ Having a problem? Open the [Troubleshooting guide](troubleshooting/README.md), o
 | 💾 | OneDrive storage is full | [View fix](troubleshooting/storage-full.md) |
 | 💻 | Files are missing on another device | [View fix](troubleshooting/missing-on-another-device.md) |
 | ♻️ | Recovering a deleted file | [View fix](troubleshooting/recover-deleted-file.md) |
-
-
 
 ---
 
