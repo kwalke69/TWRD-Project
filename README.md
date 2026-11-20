@@ -6,10 +6,6 @@
 ![Storage](https://img.shields.io/badge/Cloud-Microsoft%20OneDrive-0078D4)
 ![Guide](https://img.shields.io/badge/Guide-Beginner%20Friendly-green)
 
-# Introduction
-
-This guide provides step-by-step instructions for using Windows 11 File Explorer and Microsoft OneDrive to create, access, organize, share, and download files.
-
 <div align="center">
   
 ## Getting Started
@@ -28,17 +24,11 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 1. [File Explorer](#1-file-explorer)
 2. [Creating Files and Folders](#2-creating-files-and-folders)
 3. [OneDrive Setup and Sync](#3-onedrive-setup-and-sync)
-4. [Accessing and Downloading Files](#4-accessing-and-downloading-files)
+4. [Accessing and Downloading Files](#4-offline-files-and-storage)
 5. [Sharing Files and Folders](#5-sharing-files-and-folders)
 6. [Troubleshooting](#6-troubleshooting)
 
 ---
----
----
-
-<!-- ===================================================== -->
-<!-- SECTION 1                                             -->
-<!-- ===================================================== -->
 
 # 1. File Explorer
 
@@ -58,7 +48,7 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 ![Taskbar](images/taskbar.png)
 
-*Figure 1: Windows Taksbar.*
+*Figure 1: Windows Taskbar.*
 
 <div align="center"> 
   
@@ -76,42 +66,35 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 *Figure 2: Windows 11 File Explorer main window.*
 
-<!-- ===================================================== -->
-<!-- SECTION 2                                             -->
-<!-- ===================================================== -->
+---
 
 # 2. Creating Files and Folders
 
 <div align="center">
   
-## 2.1 Creating a New Folder
+## 2.1 Creating a Folder
 
 </div>
 
-1. [Open File Explorer](#11-opening-file-explorer)
-2. Navigate to the location where you want to create a folder.
-3. Click **New** in the command bar.
-4. Select **Folder**.
-5. Enter a folder name.
-6. Press `Enter`.
+1. [Open File Explorer](#11-opening-file-explorer) and navigate to the location where you want to create a folder.
+2. Click **New** in the command bar then select **Folder**.
+3. Enter a folder name and press `Enter`.
 
-  ![Windows 11 Creating a Folder](images/creating-folder-v2.jfif)
+![Windows 11 Creating a Folder](images/creating-folder-v2.jfif)
 
-*Figure 3: Creating Folder in Windows 11.*
+*Figure 3: Creating a Folder in Windows 11.*
 
 <div align="center">
   
-## 2.2 Creating a New File
+## 2.2 Creating a File
 
 </div>
 
 1. Open the folder where you want to create the file by Double-clicking.
-2. Click **New** in the command bar.
-3. Select **Text Document**.
-4. Enter a filename.
-5. Press `Enter`.
+2. Click **New** in the command bar then select **Text Document**.
+3. Enter a filename and press `Enter`.
 
-  ![Windows 11 Creating a File](images/creating-file-v2.png)
+![Windows 11 Creating a File](images/creating-file-v2.png)
 
 *Figure 4: Creating File in Windows 11.*
 
@@ -121,10 +104,8 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 </div>
 
-1. Open the created file.
-2. Enter your information.
-3. Press `Ctrl + S` to save.
-4. Close the application.
+1. Open a created file and enter your text.
+2. Press `Ctrl + S` to save, then exit.
 
 <div align="center">
   
@@ -132,10 +113,8 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 </div>
 
-1. Select any file.
-2. Select **Rename**.
-3. Enter the new filename.
-4. Press `Enter`.
+1. Select any file and click **Rename**.
+2. Enter the new filename and press `Enter`.
 
 <div align="center">
   
@@ -143,21 +122,17 @@ This guide provides step-by-step instructions for using Windows 11 File Explorer
 
 </div>
 
-Create a folder in Documents named `Training Documents`.
-
-Inside the folder, create a text file named `Getting Started.txt`.
-
-Enter the following text:
-
+1. Create a folder in Documents named `Training Documents`.
+2. Inside the folder, create a text file named `Getting Started`.
+3. Enter the following text:
 > This document was created using Windows 11 File Explorer.
-
-Save the file and rename it to `File Explorer Introduction.txt`.
+4. Save the file and rename it to `File Explorer Introduction`.
 
 https://github.com/user-attachments/assets/9362dd05-3985-49b4-a51f-53c947406312
 
-<!-- ===================================================== -->
-<!-- SECTION 3                                            -->
-<!-- ===================================================== -->
+*Figure 5: Folder and File Example Vid.*
+
+---
 
 # 3. OneDrive Setup and Sync
 
@@ -169,32 +144,34 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 </div>
 
-1. Open the Windows Start menu and search for **OneDrive**.
-2. Open the OneDrive application.
+1. Open the Windows Start menu and search for **OneDrive**, and open the application.
 
 ![Finding OneDrive](images/finding-onedrive.png)
 
-3. Sign in using your Microsoft account or organization account.
+*Figure 6: Finding OneDrive.*
+
+2. Sign in using your Microsoft account or organization account and follow the setup instructions.
 
 ![OneDrive Log-In](images/onedrive-login.png)
-   
-4. Follow the setup instructions and confirm the location of your OneDrive folder.
 
+*Figure 7: Logging in to OneDrive.*
+   
 <div align="center">
   
 ## 3.2 Saving Files to OneDrive
 
 </div>
 
-1. Locate the file you want to move.
-2. Right-click the file and select **Cut**.
-3. Open the destination folder in OneDrive.
-4. Right-click inside the folder and select **Paste**.
-5. Wait for OneDrive to synchronize the file.
+1. Right-click the file you want to move and select **Cut**.
+2. Open the destination folder in OneDrive.
+3. Right-click inside the folder and select **Paste**.
+4. Wait for OneDrive to synchronize the file.
 
 *Example Video*
 
 ![Saving Files Example Vid](images/download.gif)
+
+*Figure 8: Saving Files in OneDrive.*
 
 <div align="center">
 
@@ -214,9 +191,9 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 ![OneDrive Status Icons](images/OneDrive-statuses.png)
 
-*Figure 4: OneDrive Status Icons.*
+*Figure 9: OneDrive Status Icons.*
 
-**Important:** Allow OneDrive to finish synchronizing before disconnecting from the internet.
+To see upload and download activity, click the OneDrive cloud icon in the taskbar notification area (click the upward arrow if it is hidden).
 
 <div align="center">
   
@@ -229,6 +206,8 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 
 ![Pausing OneDrive Sync](images/pause-sync.png)
 
+*Figure 10: Pausing OneDrive Sync.*
+
 <div align="center">
   
 ## 3.5 Choose Which Folders Sync
@@ -236,12 +215,14 @@ OneDrive keeps the files in your OneDrive folder synchronized with your cloud st
 </div>
 
 1. Click the OneDrive cloud icon and open **Settings**.
-2. Select **Account** > **Choose folders**.
+2. Select **Account** then **Choose folders**.
 3. Select or clear folders, then confirm.
 
 Cleared folders stay available online but do not sync to your computer.
 
 ![Selecting Synced Folders](images/selecting-folders.png)
+
+*Figure 11: Selecting Synced Folders*
 
 <div align="center">
   
@@ -254,24 +235,20 @@ Cleared folders stay available online but do not sync to your computer.
 - Monitor your OneDrive storage.
 - Deleting a synced file can remove it from all your devices.
 
-<!-- ===================================================== -->
-<!-- SECTION 4                                             -->
-<!-- ===================================================== -->
+---
   
-# 4. Accessing and Downloading Files
+# 4. Offline Files and Storage
 
 <div align="center">
 
-## 4.1 Downloading Online-Only Files
+## 4.1 Download Files and Keep Them Offline
 
 </div>
 
-1. [Open File Explorer](#11-opening-file-explorer)
-2. Navigate to your OneDrive folder.
-3. Hold `Ctrl` and select the files you want.
-4. Right-click one of the selected files.
-5. Select **Always keep on this device**.
-6. Wait for the download to complete.
+1. [Open File Explorer](#11-opening-file-explorer) and go to your OneDrive folder.
+2. Hold `Ctrl` and select the files or folders you want.
+3. Right-click one of the selected files and select **Always keep on this device**.
+4. Wait for the download to complete.
 
 **Note**: The items are now available without an internet connection. Opening an online-only file also downloads it automatically.
 
@@ -300,8 +277,8 @@ Right-click a downloaded file or folder and select **Free up space**. The local 
    ![OneDrive Web Shortcut](images/onedrive-web.png)
 
    
-3. Find the item and, if available, select **Add shortcut to My files**.
-4. In File Explorer, open OneDrive and locate the item.
+2. Find the item and, if available, select **Add shortcut to My files**.
+3. In File Explorer, open OneDrive and locate the item.
 
 Your permissions determine whether you can view, download, or edit it.
 
