@@ -1,4 +1,4 @@
-# Windows 11 File Explorer & OneDrive Guide
+# 🗂️ Windows 11 File Explorer & OneDrive Guide
 
 **Learn how to create, organize, save, download, synchronize, and share files using Windows 11 and Microsoft OneDrive.**
 
@@ -12,25 +12,25 @@
 
 </div>
 
-**Requirements**
+**Requirements ✅**
 
 - A Windows 11 computer
 - A Microsoft account or organization account
 - Microsoft OneDrive access
 - An internet connection for cloud file access and synchronization
 
-# Table of Contents
+## 📑 Table of Contents
 
-1. [File Explorer](#1-file-explorer)
-2. [Creating Files and Folders](#2-creating-files-and-folders)
-3. [OneDrive Setup and Sync](#3-onedrive-setup-and-sync)
-4. [Accessing and Downloading Files](#4-offline-files-and-storage)
-5. [Sharing Files and Folders](#5-sharing-files-and-folders)
-6. [Troubleshooting](#6-troubleshooting)
+1. 📁 [File Explorer](#1-file-explorer)
+2. 📝 [Creating Files and Folders](#2-creating-files-and-folders)
+3. ☁️ [OneDrive Setup and Sync](#3-onedrive-setup-and-sync)
+4. 📥 [Offline Files and Storage](#4-offline-files-and-storage)
+5. 🔗 [Sharing Files and Folders](#5-sharing-files-and-folders)
+6. 🛠️ [Troubleshooting](troubleshooting/README.md)
 
 ---
 
-# 1. File Explorer
+# 📁 1. File Explorer
 
 **File Explorer is the Windows application used to browse, create, organize, and manage files and folders.**
 
