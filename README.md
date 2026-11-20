@@ -82,7 +82,7 @@
 2. Click **New** in the command bar then select **Folder**.
 3. Enter a folder name and press `Enter`.
 
-![Windows 11 Creating a Folder](images/creating-folder-v2.png)
+![Windows 11 Creating a Folder](images/creating-folder-v2.jpg)
 
 *Figure 3: Creating a Folder in Windows 11.*
 
