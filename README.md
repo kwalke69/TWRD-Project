@@ -252,9 +252,9 @@ Cleared folders stay available online but do not sync to your computer.
 
 **Note**: The items are now available without an internet connection. Opening an online-only file also downloads it automatically.
 
-![](keeping-files.png)
+![Downloading Online-Only Files](keeping-files.png)
 
-*Figure 6: Downloading Online-Only Files.*
+*Figure 12: Downloading Online-Only Files.*
 
 <div align="center">
   
@@ -264,23 +264,7 @@ Cleared folders stay available online but do not sync to your computer.
 
 Right-click a downloaded file or folder and select **Free up space**. The local copy is removed when possible, and the file stays in OneDrive. Online-only files need an internet connection to open.
 
-<div align="center">
-  
-## 4.3 Open Files Shared with You
-
-</div>
-
-1. In your browser, open OneDrive and go to **Shared**.
-
-  `OneDrive website can be opened through file explorer.`
-
-   ![OneDrive Web Shortcut](images/onedrive-web.png)
-
-   
-2. Find the item and, if available, select **Add shortcut to My files**.
-3. In File Explorer, open OneDrive and locate the item.
-
-Your permissions determine whether you can view, download, or edit it.
+---
 
 # 5. Sharing Files and Folders
 
@@ -295,11 +279,13 @@ Your permissions determine whether you can view, download, or edit it.
 3. Choose **Can view** or **Can edit**.
 4. Add an optional message and click **Send**.
 
-*Figure 7:*
+![Share Dialog](images/share-access.png)
+
+*Figure 13: Share Dialog.*
 
 <div align="center">
 
-## 5.2 Copying a Sharing Link
+## 5.2 Copy a Sharing Link
 
 </div>
 
@@ -317,118 +303,37 @@ Your permissions determine whether you can view, download, or edit it.
 2. Select **Manage access**.
 3. Review permissions and links, and remove access when needed.
 
-*Figure 8: Manage access.*
+https://github.com/user-attachments/assets/597f3235-a13c-4ff4-bd84-d178660e8709
 
-**Best practice:** Share files with specific people and use view-only permissions whenever editing is not required.
+*Figure 14: Manage Access.*
+
+**Best practice:** Share with specific people and use view-only permissions unless editing is needed.
+
+<div align="center">
+
+## 5.4 Open Files Shared with You
+
+</div>
+
+1. In your browser, open OneDrive and go to **Shared**.
+2. Find the item and, if available, select **Add shortcut to My files**.
+3. In File Explorer, open OneDrive and locate the item.
+
+Your permissions determine whether you can view, download, or edit it.
+
+---
 
 ## 6. Troubleshooting
 
-This section provides solutions to common Windows 11 File Explorer and OneDrive problems.
+Having a problem? See the [Troubleshooting guide](troubleshooting/README.md) for fixes to these common issues:
 
-### 1. OneDrive Is Missing from File Explorer
+- [OneDrive is missing from File Explorer](troubleshooting/README.md#onedrive-is-missing-from-file-explorer)
+- [Files are not syncing, or a red X appears](troubleshooting/README.md#files-are-not-syncing-or-a-red-x-appears)
+- [Files will not download](troubleshooting/README.md#files-will-not-download)
+- [OneDrive storage is full](troubleshooting/README.md#onedrive-storage-is-full)
+- [Files are missing on another device](troubleshooting/README.md#files-are-missing-on-another-device)
+- [Recovering a deleted file](troubleshooting/README.md#recover-a-deleted-file)
 
-**Possible causes:**
-- OneDrive is not running.
-- The user is not signed in.
-- OneDrive has not been configured.
-
-**Solutions:**
-
-1. Open the Windows Start menu.
-2. Search for OneDrive.
-3. Open the OneDrive application.
-4. Sign in using your Microsoft or organization account.
-5. Complete the setup process.
-6. Reopen File Explorer and check the navigation pane.
-
-### 2. Files Are Not Synchronizing
-
-**Possible causes:**
-- No internet connection.
-- OneDrive synchronization is paused.
-- Storage is full.
-- A file has a synchronization error.
-
-**Solutions:**
-
-1. Check your internet connection.
-2. Click the OneDrive cloud icon in the taskbar.
-3. Check for error messages.
-4. Confirm synchronization is not paused.
-5. Check your available OneDrive storage.
-6. Resolve any errors displayed by OneDrive.
-
-### 3. Files Will Not Download
-
-**Possible causes:**
-- No internet connection.
-- Insufficient local storage.
-- OneDrive is not signed in.
-- The file is no longer available or access has been removed.
-
-**Solutions:**
-
-1. Verify your internet connection.
-2. Confirm you are signed in to OneDrive.
-3. Check available storage on your computer.
-4. Open File Explorer and locate the file.
-5. Right-click the file and select **Always keep on this device**.
-6. Wait for the download to complete.
-
-### 4. Red X Appears Next to a File
-
-A red X indicates a OneDrive synchronization problem.
-
-**Solutions:**
-
-1. Click the OneDrive cloud icon.
-2. Review the displayed error message.
-3. Check whether the file name contains unsupported characters.
-4. Verify that you have permission to access the file.
-5. Check your available cloud storage.
-6. Follow the instructions provided by OneDrive to resolve the error.
-
-### 5. OneDrive Storage Is Full
-
-**Solutions:**
-
-1. Review your OneDrive storage usage.
-2. Identify files that are no longer needed.
-3. Move important files elsewhere before deleting anything.
-4. Remove unnecessary files from OneDrive.
-5. Empty the OneDrive recycle bin if appropriate.
-6. Contact your organization's IT department if additional storage is required.
-
-**Important:** Deleting a file from OneDrive can also remove it from other synchronized devices.
-
-### 6. Files Are Not Appearing on Another Device
-
-**Solutions:**
-
-1. Confirm both devices are connected to the internet.
-2. Verify that both devices use the same OneDrive account.
-3. Check the OneDrive synchronization status on the original device.
-4. Wait for synchronization to finish.
-5. Refresh File Explorer on the second device.
-6. Check OneDrive online to confirm the file exists.
-
-### 7. Recover a Deleted File
-
-1. Open OneDrive in your web browser.
-2. Navigate to the **Recycle bin**.
-3. Locate the deleted file.
-4. Select the file.
-5. Click **Restore**, if available.
-
-Recovery availability depends on account type, retention policies, and whether the file has been permanently deleted.
-
-### Additional Support
-
-If these troubleshooting steps do not resolve the problem:
-
-- Contact your organization's IT support team.
-- Visit [Microsoft OneDrive Support](https://support.microsoft.com/onedrive).
-- Review the OneDrive synchronization status and error messages.
 
 ---
 
